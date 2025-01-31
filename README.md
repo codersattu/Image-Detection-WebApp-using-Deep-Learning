@@ -136,5 +136,5 @@ This project can be deployed on platforms like **Heroku**, **Render**, or **Pyth
 
 ## Author
 
-- **Your Name** - [Abhishek Satpathy](https://github.com/codersattu)
+- **Abhishek Satpathy (Voodoo Coder)** - [Abhishek Satpathy](https://github.com/codersattu)
 
